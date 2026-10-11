@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sawan 👋
 
-<!--
-**Saone09/Saone09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at GH Raisoni University
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer | Interested in Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🌱 Learning programming and web development.
+- 🛠️ Building projects to improve my technical skills.
+- 🎯 Interested in software engineering and backend development.
+- 📚 Always learning and exploring new technologies.
+
+### 🧰 Technologies
+- HTML
+- CSS
+- Python
+- Flask
+- Git & GitHub
+
+### 📂 Projects
+- [Digital Notice Board](https://github.com/Saone09/digital-notice-board)
+
+### 📫 Connect With Me
+- GitHub: https://github.com/Saone09
+- LinkedIn: Add your LinkedIn profile URL here
